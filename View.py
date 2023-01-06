@@ -16,7 +16,7 @@ class View(Tk):
 
         # Window properties
         self.geometry('515x200')
-        self.title('Hangman Martin_Sikka')
+        self.title('Hangman Sikka')
         self.center(self)
 
         # Create frames

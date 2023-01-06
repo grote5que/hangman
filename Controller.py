@@ -1,5 +1,5 @@
-from model import Model
-from view import View
+from Model import Model
+from View import View
 
 
 class Controller:
@@ -10,3 +10,4 @@ class Controller:
 
     def main(self):
         self.view.main()
+

@@ -1,7 +1,7 @@
 """
 color #28d93e
 """
-from controller import Controller
+from Controller import Controller
 
 
 class Hangman:
